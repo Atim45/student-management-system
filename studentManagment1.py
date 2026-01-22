@@ -1,3 +1,4 @@
+import os
 student = {}
 
 def add_student():
@@ -15,7 +16,7 @@ def find_grade():
     else:
         print(" Error")
         
-import os
+
 def show_all_student():
     print(student)
     
@@ -79,3 +80,4 @@ while True:
 
 
     
+
